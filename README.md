@@ -64,7 +64,8 @@ Bachelor of Science		Njala University	Sierra Leone	08/2018 - 08/2022
 ALX-Software Engineering(Mastercard Scholarship):  ALX-SE 12-month Online Professional Certification Course (08/2023)
 
 
-![Untitled-1](https://github.com/ibrahimgeorgefoday/ibrahimgeorgefoday/assets/122330387/95e9464c-2f8c-40e4-aafe-d39d09e01779)
+![SKILLS](https://github.com/ibrahimgeorgefoday/ibrahimgeorgefoday/assets/122330387/1cf8499b-da3a-4739-b62b-9de9bf2f3c41)
+
 
 
 
