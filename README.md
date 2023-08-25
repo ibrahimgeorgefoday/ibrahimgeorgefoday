@@ -11,7 +11,7 @@
 •  VOLUNTEER, Data Scientist, End User Trainer, Equipment Maintenance, Deputy Biosafety officer, Supervision and Teaching
 •   Established the National Tuberculosis Reference Laboratory Website, enhancing critical information accessibility
 •   Spearheaded data management and analysis for informed decision-making.
-•   Implemented a robust quality management system, optimizing operational efficiency, and conducted molecular testing for diseases such        as Covid, Ebola, HIV, and Tuberculosis.
+•   Implemented a robust quality management system, optimizing operational efficiency, and conducted molecular testing for diseases such as COVID-19, Ebola, HIV, and Tuberculosis.
 •   	Directed training initiatives and supervised regional and district laboratory staff, promoting skill advancement and strict adherence to laboratory quality management systems.
 •   Implemented comprehensive biosafety measures to safeguard the well-being of workers.
 
@@ -23,9 +23,9 @@
 •   Displayed a profound commitment to excellence in the medical field, driving the company’s reputation for quality and credibility
 •   Utilized my graphic Design skills to create visually captivating posters for marketing the company’s products, enhancing their market presence and appeal.
 
-**Graphic and Web Designer-Freelance		Geo-Graphics and Winners Chapel Media		04/2017 - Current**
+**Graphic and Web Designer-Freelance	Geo-Graphics and Winners Chapel Media		04/2017 - Current**
 
-•   Designed and developed responsive websites and print materials providing clients with visually appealing and functional online platforms using latest Technologies like Photoshop, Adobe Illustrator, Canva, WordPress, Tableau and Django.
+•   Designed and developed responsive websites and print materials providing clients with visually appealing and functional online platforms using the latest Technologies like Photoshop, Adobe Illustrator, Canva, WordPress, Tableau, and Django.
 
 **Researcher and Writer		Research Army		12/2018 - Current**
 •   Proficiently authored an array of Projects and research papers, encompassing various formats such as Poster presentations and technical documentation consistently meeting high-quality standards using SPSS. PYTHON, EXCEL, TABLEAU, KOBOCOLLECT and GOOGLE FORM, PowerPoint, and Machine Learning.
@@ -37,7 +37,7 @@
 Bachelor of Science		Njala University	Sierra Leone	08/2018 - 08/2022
 •  BSc (Hons.) Biological Sciences
 
-**Certifications **
+**Certifications**
 
 •   Data Science Professional Certificate: International Business Machine Cooperations(IBM) (08/2023)
 •   HIV-VISITECT CD4 Product-End User: Accubio Limited (02/2023)
@@ -56,11 +56,11 @@ Bachelor of Science		Njala University	Sierra Leone	08/2018 - 08/2022
 •   Assessing the Prevalence of Hepatitis B virus infection in patients: Published 13/1/2023 
 •   Influence of Socio-Cultural Barriers on Persons with Disabilities – Case study of Kenema District: Published 29/1/2023
 
-**Mentorship **
+**Mentorship**
 
 •   Computer Science Tutor: Programming | Research Writing using recent technological tools | Data Structure and Algorithms | profession
 
-**Others **
+**Others**
 
 ALX-Software Engineering(Mastercard Scholarship):  ALX-SE 12-month Online Professional Certification Course (08/2023)
 
