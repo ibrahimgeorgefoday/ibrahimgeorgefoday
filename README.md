@@ -5,16 +5,17 @@
 
 ![Lab_Scientist_smart_3d_cartoon_funky_nomal_e1122edd-0495-4ecc-b159-f542406f1b42](https://github.com/ibrahimgeorgefoday/ibrahimgeorgefoday/assets/122330387/d8d597ad-a266-417f-b697-9318fbf6a01f), ![georgefoday_cuphead_character_with_dreadlocks_keep_exact_same_f_d105cef5-a302-4e8b-b404-075408058cfd](https://github.com/ibrahimgeorgefoday/ibrahimgeorgefoday/assets/122330387/ed5a9d8c-9906-4155-81b6-2babd637a859)
 
-Medical Laboratory Scientific Officer		Sierra Leone National Tuberculosis Reference Laboratory
-07/2021 - Current
+**Medical Laboratory Scientific Officer		Sierra Leone National Tuberculosis Reference Laboratory
+07/2021 - Current**
+
 •  VOLUNTEER, Data Scientist, End User Trainer, Equipment Maintenance, Deputy Biosafety officer, Supervision and Teaching
 •   Established the National Tuberculosis Reference Laboratory Website, enhancing critical information accessibility
 •   Spearheaded data management and analysis for informed decision-making.
 •   Implemented a robust quality management system, optimizing operational efficiency, and conducted molecular testing for diseases such        as Covid, Ebola, HIV, and Tuberculosis.
 •   	Directed training initiatives and supervised regional and district laboratory staff, promoting skill advancement and strict adherence to laboratory quality management systems.
 •   Implemented comprehensive biosafety measures to safeguard the well-being of workers.
-Medical Representative		Codix Healthcare
-Sierra Leone, Nigeria	10/2022 - July/2023
+
+**Medical Representative		**Codix Healthcare **     Sierra Leone, Nigeria	10/2022 - July/2023**
 •   Forged and nurtured impactful relationships with Healthcare professionals, contributing to enhanced product visibility and credibility
 •   Collaboratively contributed to the team’s remarkable achievement of generating 2 Billion Leones in revenue in 2022, underscoring  dedication to exceptional performance and revenue generation.
 •   Played a pivotal role in educating healthcare professionals about the company’s products, emphasizing their unique advantages.
