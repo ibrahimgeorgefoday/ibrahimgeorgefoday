@@ -3,7 +3,7 @@
 
 🐍 Python | 📊 SQL | ☕ Java | 🌐 JavaScript | 📝 HTML | 📂 Database | 📔 Jupyter | 🤖 Machine Learning | 📊 RStudio | 🧮 NumPy | 🐼 Pandas | 🏢 Db2 | 🤖 AI | 📊 Bokeh | 🚫 NoSQL |📜 Git & Github | 📈 Data Analysis | 📊 Data Visualization | 📈 Excel (Vlookup, Conditional formatting, Pivot Tables, VBA) | 📊 Tableau | 🗺️ ArcGIS | 📈 Matplotlib | 🧠 Scikit-Learn | 📊 Big Data | ⛏️ Data Mining | 🧪 OOP | 🧪 Data Science Methodology | 📊 Clustering | 📊 Classification | 🎨 Graphic & Web design | 📊 SPSS | 📱 Kobo Collect | 📱 Google Collect | 📦 Microsoft Office Package 🔬 Medical Laboratory Techniques | 🤝 Coordination | 🧑‍🏫 Supervision, Teaching and Mentoring | 📚 End User Training | 💼 Full-Stack | 📚 English, Krio – All professional proficiency or above
 
-![Lab_Scientist_smart_3d_cartoon_funky_nomal_e1122edd-0495-4ecc-b159-f542406f1b42](https://github.com/ibrahimgeorgefoday/ibrahimgeorgefoday/assets/122330387/d8d597ad-a266-417f-b697-9318fbf6a01f), ![georgefoday_cuphead_character_with_dreadlocks_keep_exact_same_f_d105cef5-a302-4e8b-b404-075408058cfd](https://github.com/ibrahimgeorgefoday/ibrahimgeorgefoday/assets/122330387/ed5a9d8c-9906-4155-81b6-2babd637a859)
+![Lab_Scientist_smart_3d_cartoon_funky_nomal_e1122edd-0495-4ecc-b159-f542406f1b42](https://github.com/ibrahimgeorgefoday/ibrahimgeorgefoday/assets/122330387/d8d597ad-a266-417f-b697-9318fbf6a01f),
 
 **Medical Laboratory Scientific Officer		Sierra Leone National Tuberculosis Reference Laboratory 07/2021 - Current**
 
@@ -62,6 +62,10 @@ Bachelor of Science		Njala University	Sierra Leone	08/2018 - 08/2022
 **Others**
 
 ALX-Software Engineering(Mastercard Scholarship):  ALX-SE 12-month Online Professional Certification Course (08/2023)
+
+
+![t_kali-linux6292](https://github.com/ibrahimgeorgefoday/ibrahimgeorgefoday/assets/122330387/c1db3941-bc05-4fcd-8fd4-409b9d2d8d48)
+
 
 
 
